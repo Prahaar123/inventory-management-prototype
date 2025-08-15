@@ -71,7 +71,7 @@ python inventory_gui.py
 ## 💻 Download Executable (Windows)
 You can directly download and run the Windows version of this project without installing Python:
 
-[📥 Download InventoryDemo.exe](https://github.com/Prahaar123/releases/download/v1.0-prototype/InventoryDemo.exe)
+[📥 Download InventoryDemo.exe](https://github.com/Prahaar123/inventory-management-prototype/releases/download/v1.0-prototype/InventoryApp.exe)
 
 ---
 
