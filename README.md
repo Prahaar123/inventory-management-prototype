@@ -68,6 +68,12 @@ python inventory_gui.py
 <img width="929" height="457" alt="Screenshot 2025-08-15 223926" src="https://github.com/user-attachments/assets/841e657d-aa45-4507-8083-8b601bb9264c" />
 
 ---
+## 💻 Download Executable (Windows)
+You can directly download and run the Windows version of this project without installing Python:
+
+[📥 Download InventoryDemo.exe](https://github.com/Prahaar123/releases/download/v1.0-prototype/InventoryDemo.exe)
+
+---
 
 ## 📜 License
 This project is licensed under the MIT License.
