@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Database (real data)
+inventory.db
+
+# PyInstaller build files
+*.spec
+build/
+dist/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
